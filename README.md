@@ -2,3 +2,4 @@
 
 ## This commit should remain.
 ## This commit should be squashed.
+## This commit should be deleted.
